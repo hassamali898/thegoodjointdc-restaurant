@@ -14,5 +14,12 @@
     "category": "Salads",
     "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
     "image": "https://www.feastingathome.com/wp-content/uploads/2021/10/Caesar-salad_-4.jpg"
+  },
+  {
+    "id": 1750521637596,
+    "name": "Fajita Pizza",
+    "description": "Pizza topped with chicken, bell peppers, onions and salsa",
+    "price": 12.99,
+    "image": "https://boboli.com/sites/default/files/2022-06/chicken_fajita_LR_0.jpg"
   }
 ]
