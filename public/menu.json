@@ -1,19 +1,25 @@
 [
-    {
-      "id": 1,
-      "name": "Margherita Pizza",
-      "price": 9.99,
-      "category": "Pizza",
-      "description": "Classic pizza with tomatoes, mozzarella, and basil.",
-      "image": "https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Caesar Salad",
-      "price": 6.49,
-      "category": "Salads",
-      "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
-      "image": "https://www.feastingathome.com/wp-content/uploads/2021/10/Caesar-salad_-4.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 9.99,
+    "category": "Pizza",
+    "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+    "image": "https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Caesar Salad",
+    "price": 6.49,
+    "category": "Salads",
+    "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+    "image": "https://www.feastingathome.com/wp-content/uploads/2021/10/Caesar-salad_-4.jpg"
+  },
+  {
+    "id": 1750517727177,
+    "name": "Fajita Pizza",
+    "description": "Pizza topped with chicken, bell peppers, onions and salsa",
+    "price": "12",
+    "imageURL": "https://static.tossdown.com/images/7c7838da-0e20-487f-afa6-3da96555ad88.webp"
+  }
+]
