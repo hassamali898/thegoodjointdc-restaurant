@@ -28,5 +28,12 @@
     "description": "The burger is hot.",
     "price": 13.99,
     "image": "https://static.vecteezy.com/system/resources/thumbnails/023/809/530/small/a-flying-burger-with-all-the-layers-ai-generative-free-photo.jpg"
+  },
+  {
+    "id": 1750679501844,
+    "name": "Wrap",
+    "description": "Chapotle wrap is good",
+    "price": 7.99,
+    "image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg"
   }
 ]
