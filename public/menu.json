@@ -21,5 +21,12 @@
     "description": "Pizza topped with chicken, bell peppers, onions and salsa",
     "price": 12.99,
     "image": "https://boboli.com/sites/default/files/2022-06/chicken_fajita_LR_0.jpg"
+  },
+  {
+    "id": 1750659567462,
+    "name": "Burger",
+    "description": "The burger is hot.",
+    "price": 13.99,
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/023/809/530/small/a-flying-burger-with-all-the-layers-ai-generative-free-photo.jpg"
   }
 ]
