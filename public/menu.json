@@ -35,5 +35,12 @@
     "description": "Chapotle wrap is good",
     "price": 7.99,
     "image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg"
+  },
+  {
+    "id": 1750759149071,
+    "name": "Coke",
+    "description": "It's good for health",
+    "price": 2.99,
+    "image": "https://cdn.uengage.io/uploads/6670/image-687968-1644510439.jpeg"
   }
 ]
